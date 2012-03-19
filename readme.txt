@@ -10,3 +10,7 @@ customizable settings to set the number of upper, lower, numeric,
 and special characters along with the length of the string.
 This library can be used for various applications such as random 
 password generation.
+
+The implementaiton is described in details on my blog:
+
+http://keyvan.io/fully-customizable-random-password-generator
