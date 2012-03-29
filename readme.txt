@@ -14,3 +14,7 @@ password generation.
 The implementaiton is described in details on my blog:
 
 http://keyvan.io/fully-customizable-random-password-generator
+
+NuGet Package:
+
+http://nuget.org/packages/RandomStringGenerator4DotNet
